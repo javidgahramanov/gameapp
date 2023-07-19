@@ -36,6 +36,7 @@ The `GameService.PlayerApp\bin\Debug\net6.0\GameService.PlayerApp.exe` is a cons
 
 Example: gift 0f288746-d5da-48df-97fd-67d1bca95067 Coins 5
 
+3) **Logout** Logouts current player.
 
 ## Further Improvements
 
